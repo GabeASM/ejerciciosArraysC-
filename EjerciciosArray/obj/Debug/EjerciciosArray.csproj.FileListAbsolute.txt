@@ -1,0 +1,8 @@
+D:\Csharp\EjerciciosArray\EjerciciosArray\bin\Debug\EjerciciosArray.exe.config
+D:\Csharp\EjerciciosArray\EjerciciosArray\bin\Debug\EjerciciosArray.exe
+D:\Csharp\EjerciciosArray\EjerciciosArray\bin\Debug\EjerciciosArray.pdb
+D:\Csharp\EjerciciosArray\EjerciciosArray\obj\Debug\EjerciciosArray.csproj.AssemblyReference.cache
+D:\Csharp\EjerciciosArray\EjerciciosArray\obj\Debug\EjerciciosArray.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\EjerciciosArray\EjerciciosArray\obj\Debug\EjerciciosArray.csproj.CoreCompileInputs.cache
+D:\Csharp\EjerciciosArray\EjerciciosArray\obj\Debug\EjerciciosArray.exe
+D:\Csharp\EjerciciosArray\EjerciciosArray\obj\Debug\EjerciciosArray.pdb
